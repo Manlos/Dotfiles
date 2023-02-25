@@ -1,0 +1,16 @@
+[Error - 22:10:08] Error while computing completions for file:///home/manlosman/programming/lyre/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1270714)
+    at $ (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:794358)
+    at j.computeCompletions (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:793635)
+    at J.doComplete2 (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:795462)
+    at doComplete (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1367404)
+    at /usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1353590
+[Error - 22:10:09] Error while computing completions for file:///home/manlosman/programming/lyre/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1270714)
+    at $ (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:794358)
+    at j.computeCompletions (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:793635)
+    at J.doComplete2 (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:795462)
+    at doComplete (/usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1367404)
+    at /usr/lib/code/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1353590

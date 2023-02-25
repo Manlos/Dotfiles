@@ -1,0 +1,24 @@
+2023-02-23 21:08:08.116 [info] Starting worker process with pid 14463 (type: fileWatcher, window: 1).
+2023-02-23 21:08:48.993 [info] Worker process with pid 14463 terminated normally (type: fileWatcher, window: 1).
+2023-02-23 21:08:49.712 [info] Starting worker process with pid 14621 (type: fileWatcher, window: 1).
+2023-02-23 21:09:09.907 [info] Getting Manifest... yandeu.five-server
+2023-02-23 21:09:09.969 [info] Installing extension: yandeu.five-server
+2023-02-23 21:09:11.698 [info] Extracted extension to /home/manlosman/.vscode-oss/extensions/.c35cbd00-6e98-4a46-bbfc-4536408b9f74: yandeu.five-server
+2023-02-23 21:09:11.700 [info] Renamed to /home/manlosman/.vscode-oss/extensions/yandeu.five-server-0.1.12-universal
+2023-02-23 21:09:11.701 [info] Extracting completed. yandeu.five-server
+2023-02-23 21:09:11.706 [info] Extension installed successfully: yandeu.five-server
+2023-02-23 21:09:12.419 [info] Getting Manifest... ritwickdey.liveserver
+2023-02-23 21:09:12.450 [info] Installing extension: ritwickdey.liveserver
+2023-02-23 21:09:14.906 [info] Extracted extension to /home/manlosman/.vscode-oss/extensions/.a5bcba57-76cf-4d1e-a924-e785cd410663: ritwickdey.liveserver
+2023-02-23 21:09:14.911 [info] Renamed to /home/manlosman/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9-universal
+2023-02-23 21:09:14.912 [info] Extracting completed. ritwickdey.liveserver
+2023-02-23 21:09:14.917 [info] Extension installed successfully: ritwickdey.liveserver
+2023-02-23 21:09:15.443 [info] Uninstalling extension from the profile: yandeu.five-server@0.1.12 vscode-userdata:/home/manlosman/.vscode-oss/extensions/extensions.json
+2023-02-23 21:09:15.456 [info] Marked extension as uninstalled yandeu.five-server-0.1.12-universal
+2023-02-23 21:09:15.723 [info] Successfully uninstalled extension from the profile yandeu.five-server@0.1.12 vscode-userdata:/home/manlosman/.vscode-oss/extensions/extensions.json
+2023-02-23 21:09:21.304 [info] Getting Manifest... glenn2223.live-sass
+2023-02-23 21:09:21.340 [info] Installing extension: glenn2223.live-sass
+2023-02-23 21:09:21.923 [info] Extracted extension to /home/manlosman/.vscode-oss/extensions/.8699ccf0-8145-4889-a40e-81ec9340a4ac: glenn2223.live-sass
+2023-02-23 21:09:21.924 [info] Renamed to /home/manlosman/.vscode-oss/extensions/glenn2223.live-sass-6.0.2-universal
+2023-02-23 21:09:21.925 [info] Extracting completed. glenn2223.live-sass
+2023-02-23 21:09:21.930 [info] Extension installed successfully: glenn2223.live-sass

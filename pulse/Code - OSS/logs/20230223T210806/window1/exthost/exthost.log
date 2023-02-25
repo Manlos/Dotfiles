@@ -1,0 +1,26 @@
+2023-02-23 21:08:07.957 [info] Extension host with pid 14423 started
+2023-02-23 21:08:08.184 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-23 21:08:08.185 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-23 21:08:08.220 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-23 21:08:08.220 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-23 21:08:08.306 [info] Eager extensions activated
+2023-02-23 21:08:08.337 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 21:08:08.337 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 21:08:14.191 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-23 21:08:14.191 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-23 21:08:14.191 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-02-23 21:08:48.984 [info] Extension host terminating: received terminate message from renderer
+2023-02-23 21:08:48.996 [info] Extension host with pid 14423 exiting with code 0
+2023-02-23 21:08:49.913 [info] Extension host with pid 14622 started
+2023-02-23 21:08:49.913 [info] Skipping acquiring lock for /home/manlosman/.config/Code - OSS/User/workspaceStorage/cd18f5ce0c283aa379a8c178942109f4.
+2023-02-23 21:08:50.006 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-23 21:08:50.006 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-02-23 21:08:50.061 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-23 21:08:50.069 [info] Eager extensions activated
+2023-02-23 21:08:50.070 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 21:08:50.070 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 21:08:51.496 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-02-23 21:08:58.439 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-02-23 21:09:11.851 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: '*'
+2023-02-23 21:09:14.974 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-02-23 22:04:26.462 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

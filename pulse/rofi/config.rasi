@@ -1,0 +1,7 @@
+configuration {
+ modi: "drun,ssh,combi";
+ font: "hack 10";
+ combi-modi: "drun,ssh";
+ }
+//@theme "solarized"
+@theme "/usr/share/rofi/themes/Adapta-Nokto.rasi"

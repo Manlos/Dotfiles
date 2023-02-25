@@ -1,0 +1,12 @@
+2023-02-24 07:52:34.675 [info] Extension host with pid 21706 started
+2023-02-24 07:52:34.675 [info] Skipping acquiring lock for /home/manlosman/.config/Code - OSS/User/workspaceStorage/cd18f5ce0c283aa379a8c178942109f4.
+2023-02-24 07:52:34.711 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-24 07:52:34.711 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:vscode.audioPreview'
+2023-02-24 07:52:34.711 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-24 07:52:34.727 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-24 07:52:34.727 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-24 07:52:34.759 [info] Eager extensions activated
+2023-02-24 07:52:34.771 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 07:52:34.771 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 07:52:34.772 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 07:52:49.837 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
